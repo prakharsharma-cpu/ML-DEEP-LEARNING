@@ -1,5 +1,3 @@
-pip install ultralytics opencv-python-headless pillow
-
 import streamlit as st
 from ultralytics import YOLO
 from PIL import Image
