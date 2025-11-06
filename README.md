@@ -126,7 +126,7 @@ Plastic Bin: bottle, bottle, bottle
 
 Saved annotated result as detected_plastic_100.jpg
 
-▶️ Google Colab Notebook
+▶️ Google Colab Notebook and Lovable AI
 
 You can run the full project here:
 https://colab.research.google.com/drive/12hLcxkyBOTrIcTtkhPuRbN9KzWGcdEbj#scrollTo=Yin3CWsexrMa
