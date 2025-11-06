@@ -6,7 +6,6 @@ SmartWasteAI is an AI-powered waste detection and classification system designed
 Using YOLOv8x for real-time object detection, the system contributes to smart-city sustainability by improving recycling efficiency and reducing manual sorting errors.
 
 ✅ Key Features
-
 Real-time waste detection using YOLOv8x
 
 Automatic bin classification using predefined bin rules
