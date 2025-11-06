@@ -133,4 +133,3 @@ https://colab.research.google.com/drive/12hLcxkyBOTrIcTtkhPuRbN9KzWGcdEbj#scroll
 
 You can run the full project ui and ux:
 https://lovable.dev/projects/e72e50ca-fe16-4ece-8746-f2511cbae472
-
